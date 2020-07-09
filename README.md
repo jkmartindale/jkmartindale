@@ -1,5 +1,7 @@
 ### 🦀🦀🦀🦀🦀🦀🦀🦀🦀
 if astley is behaving weird just refresh a few times
+
+unless you;re in portrait, in which case good luck
 <!--
 **jkmartindale/jkmartindale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
