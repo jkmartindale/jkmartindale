@@ -1,5 +1,5 @@
 ### 🦀🦀🦀🦀🦀🦀🦀🦀🦀
-what am I doing with my life
+if astley is behaving weird just refresh a few times
 <!--
 **jkmartindale/jkmartindale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
